@@ -3,7 +3,7 @@ import 'dart:async';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:sign_in_page/pages/login.dart';
-import 'package:sign_in_page/pages/loginpage.dart';
+
 
 class SpalshPage extends StatefulWidget {
   const SpalshPage({Key? key}) : super(key: key);
